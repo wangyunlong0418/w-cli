@@ -1,0 +1,25 @@
+{
+  "name": "w-cli",
+  "version": "1.0.0",
+  "description": "handsome cli",
+  "main": "index.js",
+  "bin": {
+    "create": "./.bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wangyunlong0418/w-cli.git"
+  },
+  "keywords": [
+    "脚手架"
+  ],
+  "author": "luxixi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangyunlong0418/w-cli/issues"
+  },
+  "homepage": "https://github.com/wangyunlong0418/w-cli#readme"
+}
